@@ -13745,8 +13745,8 @@ msgid ""
 "Do you really want to see all of the rows? For a big table this could crash "
 "the browser."
 msgstr ""
-"Você realmente quer ver todas as linhas? Para uma tabela grande isto poderia "
-"travar o nevegador."
+"Você realmente quer ver todas as linhas? Para uma tabela grande 'isto poderia "
+"travar o navegador."
 
 #: src/Controllers/JavaScriptMessagesController.php:592
 msgid "Original length"
